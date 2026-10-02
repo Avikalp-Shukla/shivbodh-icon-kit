@@ -1,0 +1,328 @@
+{
+  "style": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side.",
+  "negative": "text, letters, watermark, signature, frame, border, square tile, background scene, sky, wall, cartoon flat vector, emoji style, blurry, low detail, cropped object, extra hands or fingers, religious symbols of other faiths, Kaaba",
+  "output": {
+    "format": "PNG, RGBA, transparent background",
+    "size": "1024x1024",
+    "path": "final/png/<name>.png"
+  },
+  "icons": [
+    {
+      "id": 1,
+      "name": "om",
+      "title": "Om",
+      "priority": "A",
+      "replaces": "🕉 &#128329; and the wrong 🕋 &#128331;",
+      "used_on": "front-page hero, footer, contact",
+      "prototype": "prototypes/om.svg",
+      "prompt": "sacred Om symbol sculpted in glowing saffron and polished gold, with crescent and bindu, soft halo of divine light behind it, a few marigold petals at the base",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: sacred Om symbol sculpted in glowing saffron and polished gold, with crescent and bindu, soft halo of divine light behind it, a few marigold petals at the base.",
+      "final": "final/png/om.png",
+      "status": "todo"
+    },
+    {
+      "id": 2,
+      "name": "vidyarthi-sahyog",
+      "title": "Vidyarthi Sahyog",
+      "priority": "A",
+      "replaces": "📚 &#128218;",
+      "used_on": "Vidyarthi Sahyog project card, contact",
+      "prototype": "prototypes/vidyarthi-sahyog.svg",
+      "prompt": "open palm-leaf Sanskrit manuscript resting on a carved rosewood vyasapeetha book stand, rudraksha mala draped beside it, a small glowing brass diya, gurukul feeling",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: open palm-leaf Sanskrit manuscript resting on a carved rosewood vyasapeetha book stand, rudraksha mala draped beside it, a small glowing brass diya, gurukul feeling.",
+      "final": "final/png/vidyarthi-sahyog.png",
+      "status": "todo"
+    },
+    {
+      "id": 3,
+      "name": "veda-parayana",
+      "title": "Veda Parayana Sahyog",
+      "priority": "A",
+      "replaces": "project card (no emoji yet)",
+      "used_on": "Veda Parayana project card",
+      "prototype": "prototypes/veda-parayana.svg",
+      "prompt": "rolled Vedic scroll tied with red sacred kalava thread, wooden rollers with brass caps, a tulsi sprig and a few rose petals, warm lamp light",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: rolled Vedic scroll tied with red sacred kalava thread, wooden rollers with brass caps, a tulsi sprig and a few rose petals, warm lamp light.",
+      "final": "final/png/veda-parayana.png",
+      "status": "todo"
+    },
+    {
+      "id": 4,
+      "name": "gau-mata-seva",
+      "title": "Gau Mata Seva",
+      "priority": "A",
+      "replaces": "🐄 &#128004;",
+      "used_on": "Gau Mata Seva project card, contact",
+      "prototype": "prototypes/gau-mata-seva.svg",
+      "prompt": "gentle sacred Indian cow face (gau mata), cream white, red kumkum tilak on the forehead, golden painted horns with red tassels, marigold garland and a small brass bell at the neck, calm kind eyes",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: gentle sacred Indian cow face (gau mata), cream white, red kumkum tilak on the forehead, golden painted horns with red tassels, marigold garland and a small brass bell at the neck, calm kind eyes.",
+      "final": "final/png/gau-mata-seva.png",
+      "status": "todo"
+    },
+    {
+      "id": 5,
+      "name": "annadeva-yojana",
+      "title": "Annadeva Yojana",
+      "priority": "A",
+      "replaces": "🍲 &#127858;",
+      "used_on": "Annadeva Yojana project card, contact",
+      "prototype": "prototypes/annadeva-yojana.svg",
+      "prompt": "polished brass bowl heaped with white rice and dal on a fresh green banana leaf, a tulsi leaf on top, gentle steam, prasad feeling",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: polished brass bowl heaped with white rice and dal on a fresh green banana leaf, a tulsi leaf on top, gentle steam, prasad feeling.",
+      "final": "final/png/annadeva-yojana.png",
+      "status": "todo"
+    },
+    {
+      "id": 6,
+      "name": "namaste",
+      "title": "Namaste / Pranam",
+      "priority": "A",
+      "replaces": "🙏 &#128591;",
+      "used_on": "welcome and thank-you text",
+      "prototype": "prototypes/namaste.svg",
+      "prompt": "two hands joined in pranam namaste, red kalava thread on the wrist, sandalwood skin tone, soft temple light",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: two hands joined in pranam namaste, red kalava thread on the wrist, sandalwood skin tone, soft temple light.",
+      "final": "final/png/namaste.png",
+      "status": "todo"
+    },
+    {
+      "id": 7,
+      "name": "sahyog",
+      "title": "Sahyog / Partnership",
+      "priority": "A",
+      "replaces": "🤝 &#129309;",
+      "used_on": "volunteer / partnership text",
+      "prototype": null,
+      "prompt": "two hands clasping in support, one wearing a red kalava thread and the other a rudraksha bracelet, warm saffron light",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: two hands clasping in support, one wearing a red kalava thread and the other a rudraksha bracelet, warm saffron light.",
+      "final": "final/png/sahyog.png",
+      "status": "todo"
+    },
+    {
+      "id": 8,
+      "name": "announcement",
+      "title": "Shankh / Announcement",
+      "priority": "A",
+      "replaces": "📣",
+      "used_on": "notices and announcements",
+      "prototype": "prototypes/announcement.svg",
+      "prompt": "sacred white shankh conch with a gold-capped tip and red thread, rays of golden sound light coming out of its mouth",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: sacred white shankh conch with a gold-capped tip and red thread, rays of golden sound light coming out of its mouth.",
+      "final": "final/png/announcement.png",
+      "status": "todo"
+    },
+    {
+      "id": 9,
+      "name": "verify",
+      "title": "Verify / Search",
+      "priority": "A",
+      "replaces": "🔍 🔎 &#128269; &#128270;",
+      "used_on": "search and verification links",
+      "prototype": "prototypes/verify.svg",
+      "prompt": "antique brass magnifying glass lying over a palm-leaf manuscript",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: antique brass magnifying glass lying over a palm-leaf manuscript.",
+      "final": "final/png/verify.png",
+      "status": "todo"
+    },
+    {
+      "id": 10,
+      "name": "branches",
+      "title": "Branches / Reach",
+      "priority": "A",
+      "replaces": "🌐 &#127760;",
+      "used_on": "branches and reach sections",
+      "prototype": "prototypes/branches.svg",
+      "prompt": "brass globe on a carved wooden stand, saffron points of light marking places, a small Om engraved on the base",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: brass globe on a carved wooden stand, saffron points of light marking places, a small Om engraved on the base.",
+      "final": "final/png/branches.png",
+      "status": "todo"
+    },
+    {
+      "id": 11,
+      "name": "mail",
+      "title": "Email",
+      "priority": "A",
+      "replaces": "📧 &#128231;",
+      "used_on": "contact page email row",
+      "prototype": "prototypes/mail.svg",
+      "prompt": "parchment envelope sealed with red wax bearing an Om seal, tied with red thread",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: parchment envelope sealed with red wax bearing an Om seal, tied with red thread.",
+      "final": "final/png/mail.png",
+      "status": "todo"
+    },
+    {
+      "id": 12,
+      "name": "location",
+      "title": "Address",
+      "priority": "A",
+      "replaces": "📍 &#128205;",
+      "used_on": "contact page address row",
+      "prototype": "prototypes/location.svg",
+      "prompt": "saffron map pin with a small golden temple shikhara inside its circle",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: saffron map pin with a small golden temple shikhara inside its circle.",
+      "final": "final/png/location.png",
+      "status": "todo"
+    },
+    {
+      "id": 13,
+      "name": "kashi-temple",
+      "title": "Kashi Mandir",
+      "priority": "B",
+      "replaces": "-",
+      "used_on": "about / heritage",
+      "prototype": "prototypes/kashi-temple.svg",
+      "prompt": "Kashi Vishwanath style Nagara temple shikhara in sandstone with a golden kalash finial and a saffron flag, faint Ganga ghat steps at its base",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: Kashi Vishwanath style Nagara temple shikhara in sandstone with a golden kalash finial and a saffron flag, faint Ganga ghat steps at its base.",
+      "final": "final/png/kashi-temple.png",
+      "status": "todo"
+    },
+    {
+      "id": 14,
+      "name": "diya",
+      "title": "Diya",
+      "priority": "B",
+      "replaces": "-",
+      "used_on": "devotion accent",
+      "prototype": "prototypes/diya.svg",
+      "prompt": "hand-made clay diya with a bright warm flame, kumkum dots on the rim, soft divine glow",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: hand-made clay diya with a bright warm flame, kumkum dots on the rim, soft divine glow.",
+      "final": "final/png/diya.png",
+      "status": "todo"
+    },
+    {
+      "id": 15,
+      "name": "lotus",
+      "title": "Kamal",
+      "priority": "B",
+      "replaces": "-",
+      "used_on": "purity accent",
+      "prototype": "prototypes/lotus.svg",
+      "prompt": "fully bloomed pink lotus on a lotus leaf with water droplets",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: fully bloomed pink lotus on a lotus leaf with water droplets.",
+      "final": "final/png/lotus.png",
+      "status": "todo"
+    },
+    {
+      "id": 16,
+      "name": "kalash",
+      "title": "Kalash",
+      "priority": "B",
+      "replaces": "-",
+      "used_on": "auspicious accent",
+      "prototype": "prototypes/kalash.svg",
+      "prompt": "polished brass kalash with five mango leaves, a coconut wrapped in red cloth, red swastika and kumkum marks",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: polished brass kalash with five mango leaves, a coconut wrapped in red cloth, red swastika and kumkum marks.",
+      "final": "final/png/kalash.png",
+      "status": "todo"
+    },
+    {
+      "id": 17,
+      "name": "donate-heart",
+      "title": "Daan / Donate",
+      "priority": "B",
+      "replaces": "-",
+      "used_on": "donate button",
+      "prototype": "prototypes/donate-heart.svg",
+      "prompt": "two cupped hands offering a heart made of marigold and rose petals with a gold coin",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: two cupped hands offering a heart made of marigold and rose petals with a gold coin.",
+      "final": "final/png/donate-heart.png",
+      "status": "todo"
+    },
+    {
+      "id": 18,
+      "name": "knowledge",
+      "title": "Gyaan / Knowledge",
+      "priority": "B",
+      "replaces": "-",
+      "used_on": "blog / learning",
+      "prototype": "prototypes/knowledge.svg",
+      "prompt": "open ancient Sanskrit book with radiant golden light rising from the pages, a faint Saraswati veena silhouette in the glow",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: open ancient Sanskrit book with radiant golden light rising from the pages, a faint Saraswati veena silhouette in the glow.",
+      "final": "final/png/knowledge.png",
+      "status": "todo"
+    },
+    {
+      "id": 19,
+      "name": "checklist",
+      "title": "Checklist",
+      "priority": "B",
+      "replaces": "-",
+      "used_on": "verified points",
+      "prototype": "prototypes/checklist.svg",
+      "prompt": "wooden writing patti with a parchment sheet and three green tick marks, a peacock feather quill",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: wooden writing patti with a parchment sheet and three green tick marks, a peacock feather quill.",
+      "final": "final/png/checklist.png",
+      "status": "todo"
+    },
+    {
+      "id": 20,
+      "name": "phone",
+      "title": "Phone",
+      "priority": "B",
+      "replaces": "-",
+      "used_on": "contact page phone row",
+      "prototype": "prototypes/phone.svg",
+      "prompt": "classic brass and maroon telephone handset, polished glossy finish",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: classic brass and maroon telephone handset, polished glossy finish.",
+      "final": "final/png/phone.png",
+      "status": "todo"
+    },
+    {
+      "id": 21,
+      "name": "volunteers",
+      "title": "Volunteers",
+      "priority": "B",
+      "replaces": "-",
+      "used_on": "team / seva",
+      "prototype": "prototypes/volunteers.svg",
+      "prompt": "two smiling Indian sevaks in saffron and white kurta with gamchha, chest-up portrait",
+      "full_prompt": "Traditional Indian devotional oil painting, single sacred object centered, realistic 3D form, visible painterly brush strokes, thin dark-brown ink outline, warm divine golden rim light from top-left, glossy varnish highlights, real gold-leaf ornament details, saffron, maroon and gold palette, sacred Kashi and Sanskrit gurukul atmosphere, isolated object on a fully transparent background, no text, no letters, no frame, no border, no square background, only a soft contact shadow under the object, ultra detailed, sharp focus, icon composition with about 8 percent padding on every side. Subject: two smiling Indian sevaks in saffron and white kurta with gamchha, chest-up portrait.",
+      "final": "final/png/volunteers.png",
+      "status": "todo"
+    }
+  ],
+  "ui_symbols": [
+    {
+      "name": "theme-light",
+      "replaces": "☼ &#9788;",
+      "used_on": "header dark/light toggle",
+      "type": "line-svg"
+    },
+    {
+      "name": "theme-dark",
+      "replaces": "☾ &#9790;",
+      "used_on": "header dark/light toggle",
+      "type": "line-svg"
+    },
+    {
+      "name": "section-mark",
+      "replaces": "✦ &#10022;",
+      "used_on": "section labels (front-page, about, projects)",
+      "type": "line-svg"
+    },
+    {
+      "name": "check",
+      "replaces": "✓ &#10003;",
+      "used_on": "tick lists",
+      "type": "line-svg"
+    },
+    {
+      "name": "arrow-right",
+      "replaces": "➔ &#10132; → &#8594;",
+      "used_on": "buttons / links",
+      "type": "line-svg"
+    },
+    {
+      "name": "arrow-left",
+      "replaces": "← &#8592;",
+      "used_on": "back links",
+      "type": "line-svg"
+    },
+    {
+      "name": "caret",
+      "replaces": "▲ &#9650; ▾ &#9662;",
+      "used_on": "scroll-top, menu",
+      "type": "line-svg"
+    }
+  ]
+}
